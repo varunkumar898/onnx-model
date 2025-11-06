@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f5f6fa;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.upload-box {
+  margin: 20px auto;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#preview img {
+  max-width: 300px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #222;
+}
